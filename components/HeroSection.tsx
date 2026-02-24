@@ -17,7 +17,7 @@ export const HeroSection: React.FC = () => {
         </p>
         
         <h1 className="font-cinzel text-xl md:text-6xl lg:text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-islamic-gold to-amber-200 drop-shadow-sm mb-4">
-          UNDANGAN <br /> HALAL BI HALAL <br />BANI SAMSURI 1447 H 
+        HALAL BI HALAL <br />BANI SAMSURI 1447 H 
         </h1>
 
         {/* Photo Frame */}
