@@ -28,7 +28,6 @@ export const RsvpForm: React.FC = () => {
 
           <a 
             href="https://forms.gle/kVS7zva3Gvqs2tDy6"
-            target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center w-full md:w-auto px-8 py-4 bg-gradient-to-r from-islamic-green to-emerald-800 text-white font-bold rounded-lg shadow-lg hover:shadow-xl hover:scale-[1.02] transition-all duration-300 font-cinzel tracking-wider group"
           >
